@@ -1,0 +1,24 @@
+body
+{
+    margin: 0;
+    background-image: linear-gradient(to right, rgb(255, 0, 212), rgb(255, 196, 0), yellow, rgb(255, 0, 179));
+
+}
+#the_title{
+    width:100%;
+    text-align: center;
+    font-size: 38px;
+}
+p{
+    margin: 2% 20% 2%;
+}
+#show_the_player{
+    margin: 5%;
+    color: yellow;
+}
+canvas
+{
+    background-color: yellowgreen;
+    border: 3 solid black;
+    margin: 0% 50% 0%;
+}
